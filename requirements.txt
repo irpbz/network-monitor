@@ -1,0 +1,5 @@
+PyQt5>=5.15
+psutil>=5.9
+pyqtgraph>=0.13
+scapy>=2.5
+pyinstaller>=6.0
